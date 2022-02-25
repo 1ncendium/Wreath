@@ -342,4 +342,4 @@ Password: i<3ruby
 
 ---
 
-[4 ) Command and Control with Empire](CoC/README.md)
+[4 ) Command and Control with Empire](/CoC/README.md)
