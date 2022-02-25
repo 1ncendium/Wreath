@@ -16,12 +16,12 @@ The Wreath path is divided in a few sections (Webserver, Pivoting, Git server, C
 
 Without further ado, lets get started with the webserver:
 
-[Webserver](/Webserver/README.md)
+[1 ) Webserver](/Webserver/README.md)
 
-[Pivoting](/Pivoting/README.md)
+[2 ) Pivoting](/Pivoting/README.md)
 
-[Githubserver](/Githubserver/README.md)
+[3 ) Githubserver](/Githubserver/README.md)
 
-[Command and Control with Empire](CoC/README.md)
+[4 ) Command and Control with Empire](CoC/README.md)
 
-[PersonalPC](/PersonalPC/README.md)
+[5 ) PersonalPC](/PersonalPC/README.md)

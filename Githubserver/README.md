@@ -341,3 +341,5 @@ I used [https://crackstation.net/](https://crackstation.net/) to crack the passw
 Password: i<3ruby
 
 ---
+
+[4 ) Command and Control with Empire](CoC/README.md)
